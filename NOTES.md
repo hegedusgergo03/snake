@@ -1,0 +1,1 @@
+When writing the prompt, I made sure to be very detailed (specifying the controls and score counter), so the game was completed on the first try without needing any follow-up instructions. The game board might be considered a bit large, but I find it enjoyable this way, so I didn't ask the agent to change it.
